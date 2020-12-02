@@ -59,4 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 #Files with secrets
-/[Aa]ssets/_app/Resources/BingKeys*
+/[Aa]ssets/_app/[Rr]esources/[Bb]ingKeys*
