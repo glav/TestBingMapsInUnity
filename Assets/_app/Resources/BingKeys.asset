@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32d18e8f36c321445bdd0cd5cb1dddb6, type: 3}
   m_Name: BingKeys
   m_EditorClassIdentifier: 
-  bingMapSdkKey: '{sdk-key-here}'
+  bingMapSdkKey: sdk-key-here
