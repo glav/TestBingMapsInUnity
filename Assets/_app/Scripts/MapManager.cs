@@ -34,16 +34,6 @@ public class MapManager : MonoBehaviour
 
     }
 
-    private void Awake()
-    {
-        // Default to 400 George st
-        longitudeText.text = "151.2073577699742";
-        latitudeText.text = "-33.868812556313266";
-
-        longitudeText.SetAllDirty();
-
-    }
-
     public void Reset()
     {
         pinLayer.MapPins.Clear();
